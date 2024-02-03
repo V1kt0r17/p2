@@ -1,0 +1,36 @@
+body {margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family:cursive;
+    text-decoration: none;
+    color: black;
+    text-shadow: 6px 6px 6px rgb(48, 48, 48); 
+    background-image: url(https://img.freepik.com/free-vector/seamless-white-interlaced-rounded-arc-patterned-background_53876-97975.jpg?size=626&ext=jpg&ga=GA1.1.1222169770.1701907200&semt=ais);}
+  
+
+
+header {
+    padding: 20px;
+   
+}
+
+main{padding: 20px;}
+
+h4{color: white;}
+
+
+    .text1{color: white;}
+    footer{
+        width: 100%;
+        padding: 45px;
+        background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/thumbs/1674299096_catherineasquithgallery-com-p-serii-fon-html-foto-54.png);
+        background-size: cover;
+        }
+       
+       footer p{ font-size: 22px;
+    
+            
+            font-size: 21px;
+            text-shadow: 6px 6px 6px rgb(48, 48, 48);
+            font-weight: 800;
+            }
